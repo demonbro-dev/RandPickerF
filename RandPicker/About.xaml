@@ -30,6 +30,11 @@
                 Foreground="#666666"
                 HorizontalAlignment="Center"/>
             <TextBlock 
+                Text="(.NET Framework版本)"
+                FontSize="12"
+                Foreground="#666666"
+                HorizontalAlignment="Center"/>
+            <TextBlock 
                 FontSize="14"
                 Foreground="#999999"
                 HorizontalAlignment="Center"
